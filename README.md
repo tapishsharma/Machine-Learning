@@ -1,2 +1,2 @@
-# ML
-Machine learning basics
+# Machine Learning
+Machine Learning Algorithms and models in Python
